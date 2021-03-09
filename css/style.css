@@ -273,7 +273,7 @@ ul.social_section_1info li {
     display: inline-block;
 }
 ul.social_section_1info a {
-    margin-right: 4px;
+    margin-right: 5px;
     width: 40px;
     height: 40px;
     display: block;
@@ -287,7 +287,7 @@ ul.social_section_1info a {
     -o-border-radius: 50%;
 }
 ul.social_section_1info a span.fa {
-    color: #fff;
+    color: rgb(246, 249, 250);
     font-size: 13.5px;
     line-height: 40px;
 }
