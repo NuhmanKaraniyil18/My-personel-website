@@ -231,7 +231,7 @@ a.scroll.bnr-btn i{
 	opacity: 0.9;
 	background: #1e3c72;  /* fallback for old browsers */
 	background: -webkit-linear-gradient(to right, #8397b4, rgba(30, 60, 114, 0.59));  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #2261aa, rgba(187, 205, 250, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(to right, #129bdb, rgba(70, 86, 235, 0.59)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .bnr-w3pvt-txt h2 {
@@ -291,7 +291,7 @@ ul.social_section_1info a span.fa {
     font-size: 13.5px;
     line-height: 40px;
 }
-/* //banner */
+/* // */
 
 /*-- about --*/
 
@@ -668,7 +668,7 @@ p.paragraph:after {
     border-radius: 0rem;
     
     border-radius: 10px;
-    width: 500px;
+    width: 100%;
 }
 
 .w3layouts-map iframe {
@@ -913,7 +913,7 @@ a.move-top span{
 }
 @media(max-width:600px) {
 	.quote {
-		background: url(../images/banner.jpg) center;
+		background: url(../images/about1.jpg) center;
 		background-size: cover;
 	}
 }
